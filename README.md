@@ -1,18 +1,31 @@
 # College Management System (SQL Project)
 
-This project implements a relational database to manage college data including students, teachers, courses, enrollments, and fee records.
+This project is a relational database system developed using SQL to manage college data such as students, teachers, courses, enrollments, and fee records.
 
 ## Technologies Used
 - MySQL
 - SQL
 - MySQL Workbench
 
-## Features
-- 5 tables (Students, Teachers, Courses, Enrollments, Fees)
-- 500+ records
-- SQL queries: SELECT, JOIN, GROUP BY, Aggregates
+## Database Structure
+The database contains 5 tables:
+- Students
+- Teachers
+- Courses
+- Enrollments
+- Fees
 
-## Files
+## Features
+- 500+ records inserted
+- SQL queries: SELECT, JOIN, GROUP BY, and Aggregate functions
+- ER Diagram created using MySQL Workbench
+
+## Queries Included
+- Simple Queries (SELECT, WHERE)
+- Intermediate Queries (GROUP BY, AVG, COUNT)
+- Advanced Queries (JOIN operations)
+
+## Project Files
 - college_management.sql
 - project_presentation.pdf
 - er_diagram.png
